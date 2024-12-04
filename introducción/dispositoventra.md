@@ -5,7 +5,6 @@
 
 
 
-
 - *Salida:* Monitor, impresora, altavoces.
 
 ![Sistema](https://image.slidesharecdn.com/funcionamientodelapc-100701061248-phpapp02/95/funcionamiento-de-una-pc-5-728.jpg?cb=1277964832)
